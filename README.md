@@ -1,8 +1,8 @@
 # Hi, I'm Neeraja 👋
 
-I'm a B.Tech Computer Science student at Andhra University College of Engineering, Visakhapatnam — specializing in data analysis. I like finding patterns in messy data and turning them into something actually useful.
+I'm a B.Tech Computer Science student at Andhra University College of Engineering, Visakhapatnam — specializing in data analysis. I like finding patterns in messy data and turning them into something meaningful.
 
-My strongest area right now is **payment analytics and EDA**. I've also worked on ML classification problems and enjoy the full pipeline — cleaning data, finding the story, and presenting it in a way that non-technical people can actually use.
+My strongest area right now is **payment analytics and EDA**. I've also worked on ML classification problems and enjoy the full pipeline — cleaning data, finding the story, and presenting it in a way that drives decisions.
 
 ---
 
@@ -20,11 +20,11 @@ My strongest area right now is **payment analytics and EDA**. I've also worked o
 ## 📌 Featured Projects
 
 ### 🔹 [PaymentGuard – Payment Failure Analysis Dashboard](https://github.com/neeru-meda/payment-failure-analysis)
-Multi-page Streamlit dashboard analyzing 10,000+ synthetic payment transactions. Covers failure trends, bank and channel reliability scoring (0–100), risk prediction by time-of-day, and heatmaps — all with persistent global filters and caching.
+Multi-page Streamlit dashboard analyzing 10,000+ synthetic payment transactions. Covers failure trends, bank and channel reliability scoring (0–100), risk prediction by time-of-day, and heatmaps for transaction patterns.
 
 `Python` `Streamlit` `Plotly` `Pandas` `EDA`
 
-**live Streamlit link :**  https://payment-failure-analysis.streamlit.app/?page=overview
+**Live Streamlit link:** https://payment-failure-analysis.streamlit.app/?page=overview
 
 ---
 
@@ -39,6 +39,13 @@ Python utility combining QR code generation with Fernet symmetric encryption. Bu
 Full-stack academic management system. Demonstrates end-to-end system design beyond data-only work — TypeScript frontend, Python backend.
 
 `TypeScript` `Python` `Full-stack`
+
+---
+
+### 🔹 [Student Collaboration Hub](https://github.com/neeru-meda/Student-Collaboration-Hub---Frontend)
+Modern React-based student collaboration platform featuring real-time state management, responsive UI, and seamless navigation for team projects and resource sharing.
+
+`React` `Python` `Full-stack` `Real-time Collaboration`
 
 ---
 
