@@ -2,7 +2,7 @@
 
 I'm a B.Tech Computer Science student at Andhra University College of Engineering, Visakhapatnam — specializing in data analysis. I like finding patterns in messy data and turning them into something meaningful.
 
-My strongest area right now is **payment analytics and EDA**. I've also worked on ML classification problems and enjoy the full pipeline — cleaning data, finding the story, and presenting it in a way that drives decisions.
+My strongest areas right now are **data analytics, exploratory data analysis (EDA), and machine learning**. I enjoy working across the full data pipeline — from cleaning and exploring data to building predictive models, uncovering insights, and presenting results through interactive dashboards that support data-driven decisions.
 
 ---
 
@@ -18,6 +18,14 @@ My strongest area right now is **payment analytics and EDA**. I've also worked o
 ---
 
 ## 📌 Featured Projects
+
+### 🔹 [Intelligent Patient Readmission Prediction Dashboard](https://github.com/neeru-meda/intelligent-patient-readmission-dashboard)
+
+Multi-page Streamlit dashboard analyzing hospital readmission data and predicting patient readmission risk. Covers patient demographics, clinical trends, readmission patterns, feature importance analysis, SHAP-based explainability, and ML-powered risk prediction to support healthcare decision-making.
+
+`Python` `Streamlit` `Scikit-learn` `Plotly` `Pandas` `SHAP` `Machine Learning`
+
+**Live Streamlit link:** https://intelligent-healthcare-readmission-prediction.streamlit.app/
 
 ### 🔹 [PaymentGuard – Payment Failure Analysis Dashboard](https://github.com/neeru-meda/payment-failure-analysis)
 Multi-page Streamlit dashboard analyzing 10,000+ synthetic payment transactions. Covers failure trends, bank and channel reliability scoring (0–100), risk prediction by time-of-day, and heatmaps for transaction patterns.
